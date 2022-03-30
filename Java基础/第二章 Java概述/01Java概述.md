@@ -33,7 +33,7 @@
   3. Java虚拟机机制屏蔽了底层运行平台的差别，实现了【一次编译，到处运行】
   4. 示意图
 
-  ![image-20211026111640089](/Users/hongyuliang/Library/Application Support/typora-user-images/image-20211026111640089.png)
+  ![image-20211026111640089](https://raw.githubusercontent.com/Hongyl0625/readingnote_resource/main/img/2022-03-30/image-20211026111640089.png)
 
 	### 什么是JDK、JRE
 
@@ -78,7 +78,7 @@
 
 ### 运行原理示意图
 
-![image-20211026111640089](/Users/hongyuliang/Library/Application Support/typora-user-images/image-20211026111640089.png)
+![image-20211026111640089](https://raw.githubusercontent.com/Hongyl0625/readingnote_resource/main/img/2022-03-30/image-20211026111640089.png)
 
 java.exe执行的本质是将.java文件（源文件）编译后生成.class文件（字节码文件）。
 
@@ -153,12 +153,3 @@ class Tiger {
   4. `\"`一个"
   5. `\'`一个'
   6. `\r`回车符
-
-  
-  
-  ![image-20220328191156789](/Users/hongyuliang/Library/Application Support/typora-user-images/image-20220328191156789.png)
-  
-  
-
-
-
